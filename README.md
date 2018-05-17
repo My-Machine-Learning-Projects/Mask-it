@@ -1,5 +1,5 @@
 # Mask-it
-A Computer Vision project to apply Snapchat-like filters to face images.
+A Computer Vision project to apply Snapchat-like filters on face images.
 
 ## Implementation
 This project was divided into 4 modules:
